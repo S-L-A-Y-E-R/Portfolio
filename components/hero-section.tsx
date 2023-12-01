@@ -49,7 +49,7 @@ export default function HeroSection() {
                 Hire Me
               </Link>
               <Link
-                href="https://rb.gy/zzazyg"
+                href="https://bit.ly/3GnQeCn"
                 className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br
                from-blue-300 via-blue-400 to-[#0984B1] hover:bg-slate-800  mt-3"
               >
