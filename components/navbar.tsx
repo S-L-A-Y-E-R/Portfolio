@@ -17,7 +17,7 @@ export default function Navbar() {
           href="/"
           className="text-2xl  text-black font-semibold hover:text-[#0984B1]"
         >
-          Portfolio
+          𝓐𝓱𝓶𝓮𝓭 𝓐𝓼𝓱𝓻𝓪𝓯
         </Link>
         <ul className="gap-5 hidden md:flex">
           {navlinks.map((navlink) => (

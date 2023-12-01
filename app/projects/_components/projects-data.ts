@@ -27,6 +27,14 @@ export const projectsData = [
     previewUrl: "https://e-commerce-application-admin-dashboard.vercel.app/",
   },
   {
+    title: "Discord Clone",
+    description:
+      "A Discord clone project aimed at providing a similar chat and communication experience as Discord.",
+    image: "/images/1.png",
+    gitUrl: "https://github.com/S-L-A-Y-E-R/Discord-Website",
+    previewUrl: "https://discord-website-production.up.railway.app/",
+  },
+  {
     title: "Netflix Clone",
     description:
       "This a clone for the landing page of netflix web application in which you can explore trending movies and add them to your favorite list.",
