@@ -40,7 +40,7 @@ export const projectsData = [
       "This a clone for the landing page of netflix web application in which you can explore trending movies and add them to your favorite list.",
     image: "/images/netflix-clone-bice-alpha.vercel.app_.png",
     gitUrl: "https://github.com/S-L-A-Y-E-R/Netflix-Clone",
-    previewUrl: "https://netflix-clone-f79brvg57-ahmedachraf1.vercel.app/",
+    previewUrl: "https://netflix-clone-zeta-henna.vercel.app/",
   },
   {
     title: "Real Estate Marketplace",
